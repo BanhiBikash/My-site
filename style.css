@@ -62,7 +62,7 @@ body{
     display: flex;
     flex-direction: row;
     width: 100rem;
-    height: 30px;
+    height: 3000px;
     background-color:#f14b5b;
     justify-content: center;
     align-items:center;
